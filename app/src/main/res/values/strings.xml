@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwappableViewPager</string>
+    <string name="click_to_navigate">Click To Navigate</string>
+</resources>
